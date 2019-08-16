@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://kenbabylon.github.io"
 languageCode = "en-us"
 title = "Vanilla"
 theme = "vanilla-bootstrap-hugo-theme"
@@ -46,6 +46,7 @@ googleAnalytics = "UA-123456789-1"
     weight = 5
 
 [params]
+  relativeURLs=true
   includeBootstrapJs = false
   showActiveNav = true
   containerMaxWidth = "700px"
