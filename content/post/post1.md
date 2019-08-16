@@ -1,6 +1,7 @@
 ---
 date: "2014-09-28"
-tags: ["Kenth"]
 title: "Firts post"
+draft: flase
+tags: ["Kenth"]
 ---
 This is my firts post
